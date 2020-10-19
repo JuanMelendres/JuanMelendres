@@ -1,4 +1,7 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/JuanMelendres/JuanMelendres/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Juan Melendres and I'm a computer system engineer. I'm from Mexico.
+
 
 ## &#x1f4c8; GitHub Stats
 

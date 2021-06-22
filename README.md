@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/JuanMelendres/JuanMelendres">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMelendres&layout=compact&line_height=40&theme=dark" />
 </a>
-
+<!--
 <a href="https://github.com/JuanMelendres/JuanMelendres">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanMelendres&show_icons=true&line_height=40&count_private=true&  theme=dark"
    alt="Juan Antonio Melendres Villa's GitHub Stats" />
 </a>
-
+-->
 <a href="https://github.com/JuanMelendres/JuanMelendres">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanMelendres&show_icons=true&line_height=40&count_private=true&theme=dark"        alt="Juan Antonio Melendres Villa's GitHub Stats" />
 </a>

@@ -8,7 +8,7 @@ A passionate software developer. I hold a Master’s in Applied Artificial Intel
 
 * 🌍  I'm based in Guadalajara, Jalisco
 * ✉️  You can contact me at [juan.mele97@gmail.com](mailto:juan.mele97@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React, Microservices, Design patterns
 
 <a href="https://www.github.com/juanmelendres" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/juanmelendres?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
